@@ -1,0 +1,40 @@
+Project learning Monday
+     ⬇️
+* Husky package ✅
+* Usage of git hook✅
+     ⬇️
+* vscode⌛
+
+ Project learning Tuesday
+     ⬇️
+* amplify(Backend)✅
+     ⬇️
+* node modules✅
+     ⬇️
+    src🚧
+     ⬇️
+    app
+     ⬇️
+    router🚧
+* react-toastify✅
+* toast container✅
+* router->index.tsx -> swr config⌛
+* swr✅
+
+     ⬇️
+ Project learning Wednesday
+* SwrConfig⌛
+* lazy loading✅
+* suspense✅
+
+     ⬇️
+ Project learning Thursday
+* routes
+* routes->ProtectedRoutes⌛
+* Aws-amplify✅
+* Authentication-path⌛
+
+Project learning Friday
+
+ 
+    
